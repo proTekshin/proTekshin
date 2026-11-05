@@ -16,11 +16,11 @@
     With exposure in: Java, Scheme, Prolog, C++, MySQL 
 
 
-## 📬 Contact or Connect with me:
+## 📬 Connect with me:
     
     * [LinkedIn](www.linkedin.com/in/james-goodspeed-4a5791224)
 
-    * (View my website [link] here)
+    * (View my website here [link - to be updated] )
 
 <!--
 **proTekshin/proTekshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
